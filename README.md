@@ -1,7 +1,7 @@
 # diffusion-model-indian-landmarks
 This repository contains a Stable Diffusion-based generative model that creates images of a silver Mahindra XUV 700 SUV in front of famous Indian landmarks. The model was fine-tuned with prompt engineering to ensure the car remains consistent and the backgrounds are realistic.
 
-Features
+Features:
 
 Generates photorealistic images of the SUV at different locations and angles.
 
